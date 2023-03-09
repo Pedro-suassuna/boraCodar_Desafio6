@@ -40,8 +40,8 @@ Eu ouvi F-É-R-I-A-S?! 😎🏖️
       <th>✅ FINALIZADO</th>
     </tr>
     <tr align="center">
-      <td>X/02/2023</td>
-      <td>X/02/2023</td>
+      <td>24/02/2023</td>
+      <td>24/02/2023</td>
     </tr>
   </table>
 </div>
@@ -79,7 +79,7 @@ Eu ouvi F-É-R-I-A-S?! 😎🏖️
 
 </p>
 
-- Acesse o projeto finalizado aqui -> [🏆](https://pedro-suassuna.github.io/boraCodar_Desafio6)
+- Acesse o projeto finalizado aqui -> [🏆](https://pedro-suassuna.github.io/boraCodar_Desafio6_TicketAereo)
 
 <br>
 
