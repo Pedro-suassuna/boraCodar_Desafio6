@@ -14,8 +14,6 @@ Eu ouvi F-É-R-I-A-S?! 😎🏖️
   <a href="#-Progresso">Progresso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Conhecimentos-adquiridos">Conhecimentos adquiridos</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Layout">Layout</a>
@@ -59,17 +57,6 @@ Eu ouvi F-É-R-I-A-S?! 😎🏖️
 - HTML5 e CSS3
 - Git e Github
 - Figma
-
-<br>
-
-## 🧠 Conhecimentos adquiridos
-
-<p align="justify">
-
-- <Strong>CSS:</strong>
-  <br/>
-
-</p>
 
 <br/>
 
